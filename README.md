@@ -9,7 +9,13 @@ A cryptocurrency is `a digital currency, which is an alternative form of payment
 
 # Modules to be Installed
 - latest version of Python3
+- pip install pyttsx3
 
+- pip install tkinter
+
+- pip install linecache
+
+- pip install secure-smtplib
 # Setup
 - git clone the repository `https://github.com/just-injoey/Cryptogyaan.git`  
 - open the folder containing this repo in your terminal  
